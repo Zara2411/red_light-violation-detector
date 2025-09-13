@@ -1,0 +1,4 @@
+timestamp,object_id,frame_idx,image_path,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+2025-09-12_19-21-25,4,140,violations\violation_obj4_frame140_2025-09-12_19-21-25.jpg,238,150,323,212
+2025-09-13_01-58-48,4,168,violations\violation_obj4_frame168_2025-09-13_01-58-48.jpg,195,143,276,197
+2025-09-13_23-46-13,4,140,violations\violation_obj4_frame140_2025-09-13_23-46-13.jpg,238,150,323,212
